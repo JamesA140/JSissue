@@ -1,0 +1,47 @@
+/* CSS Document */
+
+html, body {
+	
+	margin: 0 auto;
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #333;
+	background-color: #339966; }
+	
+h1 {
+	font-family: 'Redessed', cursive;
+	margin: 2px;}
+	
+button {
+	font-size: 12px;
+	font-weight: bold;
+	padding: 8px; }
+	
+div#content {
+    width: 700px;
+    margin:0 auto;
+	padding: 20px;
+	background-color: #ff99ff ; }
+	
+div#controls {
+	text-align: right; }
+	
+div#controls span {
+	font-weight: bold;
+	color: #990000; }
+	
+div#controls button {
+	margin-left: 20px; }
+	
+
+	
+div#gamespace {
+	margin: 20px;
+	padding: 10px;
+	height: 350px;
+	background-color: #ffe6ff;
+	border: 2px solid #CCC; }
+
+.gameimage {
+	max-width: 120px;
+}
